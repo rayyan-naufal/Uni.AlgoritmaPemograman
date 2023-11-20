@@ -26,3 +26,4 @@ ketik 0 untuk menghentikan program
 """)        
      
 ordinal_number()
+
